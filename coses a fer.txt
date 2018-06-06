@@ -1,0 +1,3 @@
+- desar punts i configuració en carpeta d'usuari
+- orientar-lo a objectes be
+- pantalles amb parets
